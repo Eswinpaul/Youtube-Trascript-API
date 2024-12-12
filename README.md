@@ -14,6 +14,6 @@ A powerful and easy-to-use API that fetches transcripts from YouTube videos usin
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/youtube-transcript-api.git
+git clone https://github.com/Eswinpaul/Youtube-Transcript-API.git
 cd youtube-transcript-api
 
