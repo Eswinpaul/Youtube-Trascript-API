@@ -17,23 +17,3 @@ A powerful and easy-to-use API that fetches transcripts from YouTube videos usin
 git clone https://github.com/yourusername/youtube-transcript-api.git
 cd youtube-transcript-api
 
-2. Create and activate virtual environments
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-```bash
-# macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-
-3. Install dependencies
-```bash
-pip install -r requirements.txt
-
-🏃‍♂️ **Running the API**
-Start the server:
-
-```bash
-uvicorn new_app:app --reload
